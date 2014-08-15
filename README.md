@@ -2,4 +2,4 @@ algorithm
 =========
 
 Testing git.
-'console.log'
+`console.log`
