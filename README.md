@@ -1,5 +1,5 @@
 algorithm
 =========
 
-Testing git.
+Testing git. 
 `console.log`
